@@ -2,7 +2,7 @@
 
 This was first Machine Learning project using Jupyter Noter book in Anaconda.
 
-Multiplayer concept was used to distinguish 10 different fasion items.
+Multilayer perceptron was used to distinguish 10 different fasion items.
 
 Different combinations of activation formulas and optimizers are used in order to increase percentage of accuracy.
 
